@@ -1,0 +1,6 @@
+1   1Cristian                      Alecu                         28-07-1998M
+1   1Cristian                      Alecu                         28-07-1998M
+2   2Ramnicu Sarat                 Bucuresti                     Romania                       0720047657     alecucristianionut@gmail.com
+3   3Prosoft Solutions             Iuliu Maniu                   Bucuresti                     Romania                       +40 213 133847 +40 372 873189 office@pss.ro
+2   2Ramnicu Sarat                 Bucuresti                     Romania                       0720047657     alecucristianionut@gmail.com
+3   3Prosoft Solutions             Iuliu Maniu                   Bucuresti                     Romania                       +40 213 133847 +40 372 873189 office@pss.ro
